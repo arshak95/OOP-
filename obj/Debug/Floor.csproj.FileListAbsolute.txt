@@ -1,0 +1,7 @@
+C:\Users\Arshak\source\repos\Floor\Floor\bin\Debug\Floor.exe.config
+C:\Users\Arshak\source\repos\Floor\Floor\bin\Debug\Floor.exe
+C:\Users\Arshak\source\repos\Floor\Floor\bin\Debug\Floor.pdb
+C:\Users\Arshak\source\repos\Floor\Floor\obj\Debug\Floor.csprojAssemblyReference.cache
+C:\Users\Arshak\source\repos\Floor\Floor\obj\Debug\Floor.csproj.CoreCompileInputs.cache
+C:\Users\Arshak\source\repos\Floor\Floor\obj\Debug\Floor.exe
+C:\Users\Arshak\source\repos\Floor\Floor\obj\Debug\Floor.pdb
